@@ -1,0 +1,121 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Sabina\\Desktop\\New folder\\Fiorello\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5C341602-5808-D6D7-AC1C-178A8172C3BB}|Fiorello\\Fiorello.csproj|c:\\users\\sabina\\desktop\\new folder\\fiorello\\fiorello\\areas\\admin\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5C341602-5808-D6D7-AC1C-178A8172C3BB}|Fiorello\\Fiorello.csproj|solutionrelative:fiorello\\areas\\admin\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C341602-5808-D6D7-AC1C-178A8172C3BB}|Fiorello\\Fiorello.csproj|c:\\users\\sabina\\desktop\\new folder\\fiorello\\fiorello\\areas\\admin\\views\\product\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5C341602-5808-D6D7-AC1C-178A8172C3BB}|Fiorello\\Fiorello.csproj|solutionrelative:fiorello\\areas\\admin\\views\\product\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C341602-5808-D6D7-AC1C-178A8172C3BB}|Fiorello\\Fiorello.csproj|c:\\users\\sabina\\desktop\\new folder\\fiorello\\fiorello\\areas\\admin\\views\\slider\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5C341602-5808-D6D7-AC1C-178A8172C3BB}|Fiorello\\Fiorello.csproj|solutionrelative:fiorello\\areas\\admin\\views\\slider\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C341602-5808-D6D7-AC1C-178A8172C3BB}|Fiorello\\Fiorello.csproj|c:\\users\\sabina\\desktop\\new folder\\fiorello\\fiorello\\areas\\admin\\controllers\\slidercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5C341602-5808-D6D7-AC1C-178A8172C3BB}|Fiorello\\Fiorello.csproj|solutionrelative:fiorello\\areas\\admin\\controllers\\slidercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C341602-5808-D6D7-AC1C-178A8172C3BB}|Fiorello\\Fiorello.csproj|c:\\users\\sabina\\desktop\\new folder\\fiorello\\fiorello\\areas\\admin\\views\\product\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5C341602-5808-D6D7-AC1C-178A8172C3BB}|Fiorello\\Fiorello.csproj|solutionrelative:fiorello\\areas\\admin\\views\\product\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C341602-5808-D6D7-AC1C-178A8172C3BB}|Fiorello\\Fiorello.csproj|c:\\users\\sabina\\desktop\\new folder\\fiorello\\fiorello\\areas\\admin\\viewmodels\\product\\producteditvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5C341602-5808-D6D7-AC1C-178A8172C3BB}|Fiorello\\Fiorello.csproj|solutionrelative:fiorello\\areas\\admin\\viewmodels\\product\\producteditvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Sabina\\Desktop\\New folder\\Fiorello\\Fiorello\\Areas\\Admin\\Views\\Slider\\Index.cshtml",
+              "RelativeDocumentMoniker": "Fiorello\\Areas\\Admin\\Views\\Slider\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Sabina\\Desktop\\New folder\\Fiorello\\Fiorello\\Areas\\Admin\\Views\\Slider\\Index.cshtml",
+              "RelativeToolTip": "Fiorello\\Areas\\Admin\\Views\\Slider\\Index.cshtml",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-03-15T16:39:35.004Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\Sabina\\Desktop\\New folder\\Fiorello\\Fiorello\\Areas\\Admin\\Views\\Product\\Edit.cshtml",
+              "RelativeDocumentMoniker": "Fiorello\\Areas\\Admin\\Views\\Product\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\Sabina\\Desktop\\New folder\\Fiorello\\Fiorello\\Areas\\Admin\\Views\\Product\\Edit.cshtml",
+              "RelativeToolTip": "Fiorello\\Areas\\Admin\\Views\\Product\\Edit.cshtml",
+              "ViewState": "AgIAACgAAAAAAAAAAAAqwD8AAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-03-15T10:14:38.908Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "SliderController.cs",
+              "DocumentMoniker": "C:\\Users\\Sabina\\Desktop\\New folder\\Fiorello\\Fiorello\\Areas\\Admin\\Controllers\\SliderController.cs",
+              "RelativeDocumentMoniker": "Fiorello\\Areas\\Admin\\Controllers\\SliderController.cs",
+              "ToolTip": "C:\\Users\\Sabina\\Desktop\\New folder\\Fiorello\\Fiorello\\Areas\\Admin\\Controllers\\SliderController.cs",
+              "RelativeToolTip": "Fiorello\\Areas\\Admin\\Controllers\\SliderController.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAuwB4AAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-15T10:01:28.291Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ProductEditVM.cs",
+              "DocumentMoniker": "C:\\Users\\Sabina\\Desktop\\New folder\\Fiorello\\Fiorello\\Areas\\Admin\\ViewModels\\Product\\ProductEditVM.cs",
+              "RelativeDocumentMoniker": "Fiorello\\Areas\\Admin\\ViewModels\\Product\\ProductEditVM.cs",
+              "ToolTip": "C:\\Users\\Sabina\\Desktop\\New folder\\Fiorello\\Fiorello\\Areas\\Admin\\ViewModels\\Product\\ProductEditVM.cs",
+              "RelativeToolTip": "Fiorello\\Areas\\Admin\\ViewModels\\Product\\ProductEditVM.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-15T07:08:08.562Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ProductController.cs",
+              "DocumentMoniker": "C:\\Users\\Sabina\\Desktop\\New folder\\Fiorello\\Fiorello\\Areas\\Admin\\Controllers\\ProductController.cs",
+              "RelativeDocumentMoniker": "Fiorello\\Areas\\Admin\\Controllers\\ProductController.cs",
+              "ToolTip": "C:\\Users\\Sabina\\Desktop\\New folder\\Fiorello\\Fiorello\\Areas\\Admin\\Controllers\\ProductController.cs*",
+              "RelativeToolTip": "Fiorello\\Areas\\Admin\\Controllers\\ProductController.cs*",
+              "ViewState": "AgIAABYBAAAAAAAAAAAUwB8BAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-13T10:54:24.652Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Sabina\\Desktop\\New folder\\Fiorello\\Fiorello\\Areas\\Admin\\Views\\Product\\Index.cshtml",
+              "RelativeDocumentMoniker": "Fiorello\\Areas\\Admin\\Views\\Product\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Sabina\\Desktop\\New folder\\Fiorello\\Fiorello\\Areas\\Admin\\Views\\Product\\Index.cshtml",
+              "RelativeToolTip": "Fiorello\\Areas\\Admin\\Views\\Product\\Index.cshtml",
+              "ViewState": "AgIAACAAAAAAAAAAAAAiwEgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-03-15T16:29:19.478Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

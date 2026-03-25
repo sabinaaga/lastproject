@@ -1,0 +1,29 @@
+﻿@using Fiorello.ViewModels
+ @model BlogVM
+
+
+@{
+    Layout = "_Layout";
+}
+
+
+<h1>Blog</h1>
+<div class="container mt-5">
+    <div class="card shadow-lg">
+        <img src="~/img/@Model.ImageUrl" class="card-img-top" alt="blog image" style="width:50px; height:50px;">
+
+        <div class="card-body">
+            <h2 class="card-title">@Model.Title</h2>
+
+            <p class="text-muted">
+                @Model.CreatedAt.ToString("dd mmm yyyy")
+            </p>
+
+            <p class="card-text">
+                @Model.Description
+            </p>
+        </div>
+    </div>
+</div>
+ 
+ a

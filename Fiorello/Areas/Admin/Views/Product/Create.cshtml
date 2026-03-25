@@ -1,0 +1,79 @@
+﻿@using Fiorello.Areas.Admin.ViewModels.Product
+@model ProductCreateVM
+
+<div class="container mt-5">
+
+    <form class="form-inline" method="post" asp-action="Create" enctype="multipart/form-data">
+
+        <div asp-validation-summary="All" class="text-danger"></div>
+
+        <div class="form-group">
+            <label for="name">Product</label>
+
+            <div class="form-group">
+             <label for="ProductName">Product Images</label>
+                <input type="file" class="form-control mt-3"  asp-for="UploadImages" multiple><br />
+            <span asp-validation-for="UploadImages" class="text-danger"></span>
+            </div>
+
+            <div class="form-group">
+            <label for="Name">Product Name</label>
+            <input type="text" class="form-control"  asp-for="Name" ><br />
+            <span asp-validation-for="Name" class="text-danger"></span>
+            </div>
+
+            <div class="form-group">
+            <label for="ProductName">Product Price</label>
+            <input type="text" class="form-control" asp-for="Price" ><br />
+            <span asp-validation-for="Price" class="text-danger"></span>
+
+            </div>
+            <div class="form-group">
+                <label for="CategoryId">Category</label>
+                 <select asp-for="CategoryId" asp-items="@ViewBag.categories"class="form-control">
+                 <option>-- Select category --</option> </select>
+            </div>
+        </div>
+
+        <button type="submit" class="btn btn-primary mt-5">Submit</button>
+        <a asp-action="Index" class="btn btn-light mt-5">Cancel</a>
+    </form>
+</div>
+
+
+
+
+@* <form asp-action="Create" enctype="multipart/form-data" method="post">
+    <div class="form-group">
+        <label for="ProductName">Product Name</label>
+        <input type="text" id="ProductName" asp-for="ProductName" class="form-control" />
+        <span asp-validation-for="ProductName" class="text-danger"></span>
+    </div>
+    <div class="form-group">
+        <label for="ProductPrice">Product Price</label>
+        <input type="text" id="ProductPrice" asp-for="ProductPrice" class="form-control" />
+        <span asp-validation-for="ProductPrice" class="text-danger"></span>
+    </div>
+    <div class="form-group">
+        <label for="ProductDescription">Product Description</label>
+        <input type="text" id="ProductDescription" asp-for="ProductDescription" class="form-control" />
+        <span asp-validation-for="ProductDescription" class="text-danger"></span>
+    </div>
+
+    <div class="form-group">
+        <label for="CategoryId">Category</label>
+        <select asp-for="CategoryId" class="form-control" asp-items="Model.Categories"></select>
+        <span asp-validation-for="CategoryId" class="text-danger"></span>
+    </div>
+
+    <div class="form-group">
+        <label for="UploadImages">Product Images</label>
+        <input type="file" id="UploadImages" asp-for="UploadImages" class="form-control" multiple />
+        <span asp-validation-for="UploadImages" class="text-danger"></span>
+    </div>
+
+    <button type="submit" class="btn btn-primary">Create</button>
+</form>
+ *@
+
+

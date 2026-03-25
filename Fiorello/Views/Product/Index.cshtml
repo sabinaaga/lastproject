@@ -1,0 +1,26 @@
+﻿@using Fiorello.ViewModels
+@model ProductDetailVM
+
+
+<h1>Product</h1>
+<div class="container mt-5">
+    <div class="card shadow-lg">
+        <img src="~/img/@Model.ProductImages.FirstOrDefault(b=>b.Main).Name" 
+        class="card-img-top" alt="blog image" style="width:50px; height:50px;">
+
+        <div class="card-body">
+            <h2 class="card-title">@Model.Name</h2>
+
+           
+
+            <p class="card-text">
+                @Model.Price
+            </p>
+            <p class="card-text">
+                @Model.CategoryName
+            </p>
+            
+        </div>
+    </div>
+</div>
+

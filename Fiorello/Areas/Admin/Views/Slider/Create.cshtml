@@ -1,0 +1,20 @@
+﻿@using Fiorello.Areas.Admin.ViewModels.Slider
+@model SliderCreateVM
+
+<div class="container mt-5">
+
+    <form class="form-inline" method="post" asp-action="Create" enctype="multipart/form-data">
+        <div class="form-group">
+            <label for="name">Slider</label>
+            <input type="file" class="form-control" id="name" asp-for="Image" multiple><br />
+            <span asp-validation-for="Image" class="text-danger"></span>
+        </div>
+
+        <button type="submit" class="btn btn-primary mt-5">Submit</button>
+        <a asp-action="Index" class="btn btn-light mt-5">Cancel</a>
+
+    </form>
+
+</div>
+
+
