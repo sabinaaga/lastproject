@@ -46,8 +46,7 @@
               "RelativeToolTip": "Fiorello\\Areas\\Admin\\Views\\Slider\\Index.cshtml",
               "ViewState": "AgIAAAMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-03-15T16:39:35.004Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-03-15T16:39:35.004Z"
             },
             {
               "$type": "Document",
@@ -59,8 +58,7 @@
               "RelativeToolTip": "Fiorello\\Areas\\Admin\\Views\\Product\\Edit.cshtml",
               "ViewState": "AgIAACgAAAAAAAAAAAAqwD8AAAA+AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-03-15T10:14:38.908Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-03-15T10:14:38.908Z"
             },
             {
               "$type": "Document",
@@ -72,8 +70,7 @@
               "RelativeToolTip": "Fiorello\\Areas\\Admin\\Controllers\\SliderController.cs",
               "ViewState": "AgIAAA4AAAAAAAAAAAAuwB4AAAAsAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-15T10:01:28.291Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-03-15T10:01:28.291Z"
             },
             {
               "$type": "Document",
@@ -110,8 +107,7 @@
               "RelativeToolTip": "Fiorello\\Areas\\Admin\\Views\\Product\\Index.cshtml",
               "ViewState": "AgIAACAAAAAAAAAAAAAiwEgAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-03-15T16:29:19.478Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-03-15T16:29:19.478Z"
             }
           ]
         }
